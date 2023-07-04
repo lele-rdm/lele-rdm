@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: leandromartinspinto2004@gmail.com
 
 ### Status do Github de lele-rdm 👇👇
-![Estatísticas do Github de lele-rdm](https://github-readme-stats.vercel.app/api?username=lele-rdm&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lele-rdm?cardType=github&theme=github&preferLogin=false&Background=0216DD&Text=D2DDC6&Title=D2DDC6&Border=000000&Ring=000000)](https://git.io/awesome-stats-card)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandromartinspinto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lele__rdm/)
