@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leandro Martins. 
 
-- 🔭 Estou em busca do primeiro emprego na área de programação
+- 🔭 Atuo como desenvolvedor utilizando JavaScript, ReactJS, NextJS e TypeScript
   
 - 🌱 Atualmente estou estudando Bootstrap
   
