@@ -2,7 +2,7 @@
 
 - 🔭 Atuo como desenvolvedor utilizando JavaScript, ReactJS, NextJS e TypeScript
   
-- 🌱 Atualmente estou estudando Bootstrap
+- 🌱 Atualmente estou estudando POO com C#
   
 - 📫 Contate-me no email: leandromartinspinto2004@gmail.com
 
